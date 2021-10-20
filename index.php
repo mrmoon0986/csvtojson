@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <div class="container">
 	<h2>Convert CSV to JSON using JavaScript</h2>	
 	<div class="form-group">
